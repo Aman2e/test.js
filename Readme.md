@@ -61,5 +61,5 @@ This project implements an AI chat bot for an ed-tech website to assist users wi
 - Database: MongoDB
 
 ## Credits
-This project was created by [Tushar Kesarwani](https://github.com/TusharKesarwani) as a part of AI Chatbot Project.
+This project was created by [Aman Tiwari](https://github.com/Aman2e) as a part of AI Chatbot Project.
 
